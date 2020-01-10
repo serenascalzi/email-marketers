@@ -40,15 +40,23 @@ h1 {
 	font-family: 'Staatliches', cursive;
 	font-size: 240%;
 	letter-spacing: 2px;
-	line-height: 2;
+}
+
+@media screen and (max-width: 600px) {
+	h1 {
+		margin-top: 10px;
+		margin-bottom: -10px;
+		line-height: 1;
+	}
 }
 
 .sub {
 	font-size: 90%;
+	line-height: 1.5;
 }
 
 .content-area {
-	padding-top: 0;
+	padding-top: 10px;
 	padding-bottom: 20px;
 	background-color: rgb(255, 255, 255);
 }
@@ -62,9 +70,10 @@ h1 {
 }
 
 h2 {
-	margin-bottom: -20px;
+	margin-bottom: -10px;
 	font-size: 120%;
 	font-weight: normal;
+	line-height: 1.25;
 	color: rgb(158,188,217);
 }
 
@@ -113,7 +122,7 @@ ul li {
 }
 
 .end {
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 }
 
 .photog {
@@ -123,8 +132,14 @@ ul li {
 	float: left;
 	border-width: 1px;
 	border-style: solid;
-	border-color: rgb(89,88,77);
+	border-color: rgba(89,88,77,0.625);
 	border-radius: 50%;
+}
+
+.bio {
+	text-align: justify;
+	line-height: 1.5;
+	color: rgba(89,88,77,0.625);
 }
 
 .second-column {
@@ -138,6 +153,7 @@ ul li {
 	font-size: 100%;
 	font-weight: bold;
 	text-transform: uppercase;
+	line-height: 1.5;
 	border-radius: 5px;
 	background-color: rgba(158,188,217,0.25);
 	color: rgb(158,188,217);
