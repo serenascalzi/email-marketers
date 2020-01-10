@@ -1,5 +1,4 @@
 # Millennial Marketing Social Media Strategy
----
 
 ## Target Market
 Millennial Marketing's high-value market consists of Digital Marketing professionals in mid-level positions throughout the American Southwest. This market is interested in several areas of Digital Marketing, including Email Marketing, Social Media Marketing, and Content Marketing. The market is concerned with developing engaging content, distributing it across all available channels, measuring the results, and applying these results to future endeavors.
@@ -8,7 +7,7 @@ Millennial Marketing's high-value market consists of Digital Marketing professio
 SocialMention and Klout were used to gather keyword, hashtag, and influencer data in the areas of Content Marketing, Digital Marketing, Email Marketing, and Social Marketing. This data was compiled in Microsoft Excel and analyzed using pivot tables. The ten keywords and hashtags included below had the most mentions in all four areas, while the influencers included below had the highest Klout scores. Surprisingly, the topics of Email Marketing and Social Marketing yielded few or no hastags, and the topic of Social Media Marketing was incorporated in the larger topic of Social Marketing. Influencers will likely provide the most insight, as they will be shaping the conversations across social media. However, keywords and hashtags will also be important to incorporate areas outside of the topics of focus.
 
 | Keywords | Hashtags | Influencers |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | marketing | \#marketing | Jeff Bullas \- #jeffbullas |
 | media | \#contentmarketing | Sam Hurley \- #Sam_Hurley |
 | social | \#digital | Jay Baer \- #jaybaer |
