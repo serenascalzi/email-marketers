@@ -20,13 +20,14 @@ SocialMention and Klout were used to gather keyword, hashtag, and influencer dat
 | brand | \#seo | Mari Smith \- #MariSmith |
 
 ## Blog Summary
-The Millennial Marketing blog will speak to mid-level Digital Marketing professionals and provide information on Email, Social Media, and Content Marketing for developing and distributing engaging content and measuring and applying the results. The blog post Email Marketers: The ABCs of Writing Effective Subject Lines uses Chad S. White’s blog post *6 Shocking Myths About Subject Lines* and Jomel Alos’s blog post *6 Ways to Get Your Subject Line Noticed* as the basis for the ABCs of writing effective subject lines. These ABCs are “Be Accurate, Be Brief, and Be Customer-centric.”
-
-## Future Posts
-- Content Marketing Managers: 3 Tips and Tricks for Repurposing Content
-- Digital Marketing Managers: 3 Deliverability Metrics to Begin Tracking
-- Email Marketing Managers: 3 Shortcuts to Better Survey Emails
-- Marketing Managers: 3 Trends to Begin Leveraging
-- Social Media Marketing Managers: 3 Ways to Listen More Closely
+The Millennial Marketing blog will speak to mid-level Digital Marketing professionals and provide information on Email, Social Media, and Content Marketing for developing and distributing engaging content and measuring and applying the results. The blog post *Email Marketers: The ABCs of Writing Effective Subject Lines* uses Chad S. White’s blog post *6 Shocking Myths About Subject Lines* and Jomel Alos’s blog post *6 Ways to Get Your Subject Line Noticed* as the basis for the ABCs of writing effective subject lines. These ABCs are “Be Accurate, Be Brief, and Be Customer-centric.”
 
 ## Post Testing
+After writing and publishing the blog post *Email Marketers: The ABCs of Writing Effective Subject Lines*, social media messages were developed around Maslow's Hierarchy of Needs (Safety, Belonging, Esteem/Prestige, and Self-Actualization). These messages were A/B split tested over the course of two weeks and the results were compiled in Microsoft Excel and analyzed using pivot tables. Safety messaging, posted between the hours of 10 AM and 4 PM daily, proved most effective for audience engagement.
+
+## Future Posts
+- *Content Marketing Managers: 3 Tips and Tricks for Repurposing Content*
+- *Digital Marketing Managers: 3 Deliverability Metrics to Begin Tracking*
+- *Email Marketing Managers: 3 Shortcuts to Better Survey Emails*
+- *Marketing Managers: 3 Trends to Begin Leveraging*
+- *Social Media Marketing Managers: 3 Ways to Listen More Closely*
