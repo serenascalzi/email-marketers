@@ -1,3 +1,9 @@
+/*
+Colors	Paper Source Colorscope: Hydrangea, Slate
+Fonts	Google Fonts: Montserrat, Staatliches
+Images	Adobe, Unsplash: Credited
+*/
+
 html {
 	background-color: rgb(158,188,217);
 }
@@ -12,7 +18,7 @@ body {
 
 header {
 	padding: 10px 0;
-	color: rgb(255, 255, 255);
+	color: rgb(255,255,255);
 }
 
 .section {
@@ -58,7 +64,7 @@ h1 {
 .content-area {
 	padding-top: 10px;
 	padding-bottom: 20px;
-	background-color: rgb(255, 255, 255);
+	background-color: rgb(255,255,255);
 }
 
 .first-column {
@@ -168,7 +174,7 @@ footer {
 	padding: 10px 0 20px 0;
 	font-size: 90%;
 	text-align: center;
-	color: rgb(255, 255, 255);
+	color: rgb(255,255,255);
 }
 
 .row {
