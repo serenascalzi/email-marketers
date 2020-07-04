@@ -149,6 +149,12 @@ ul li {
 	color: rgba(89,88,77,0.625);
 }
 
+@media screen and (max-width: 600px) {
+	.bio {
+		text-align: left;
+	}
+}
+
 .second-column {
 	width: 33%;
 	box-sizing: border-box;
@@ -171,7 +177,7 @@ ul li {
 }
 
 footer {
-	padding: 10px 0 20px 0;
+	padding: 10px 10px 20px 10px;
 	font-size: 90%;
 	text-align: center;
 	color: rgb(255,255,255);
